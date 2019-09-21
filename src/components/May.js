@@ -14,7 +14,7 @@ const May = (props) => {
           <CardSubtitle>May 2019</CardSubtitle>
           <CardText>2 months old</CardText>
         </CardBody>
-        <img width="100%" src={charliemay} />
+        <img width="100%" height="420em" src={charliemay} />
         <CardBody>     
         </CardBody>
       </Card>
