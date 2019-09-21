@@ -9,7 +9,7 @@ const August = (props) => {
   return (
     <div>
       <Card>
-        <CardBody>
+        <CardBody className="chumpkin">
           <CardTitle>Charles White</CardTitle>
           <CardSubtitle>August 2019</CardSubtitle>
           <CardText>5 months old</CardText>
