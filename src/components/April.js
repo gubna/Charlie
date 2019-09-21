@@ -9,10 +9,10 @@ const April = (props) => {
   return (
     <div>
       <Card>
-        <CardBody>
+        <CardBody className="chumpkin">
           <CardTitle>Charles White</CardTitle>
           <CardSubtitle>April 2019</CardSubtitle>
-          <CardText>1 months old</CardText>
+          <CardText>1 month old</CardText>
         </CardBody>
         <img width="100%" height="420em" src={charlieapril} />
         <CardBody>     
